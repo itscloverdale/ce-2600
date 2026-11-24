@@ -1,0 +1,50 @@
+{
+  "slug": "CE2600",
+  "name": "CE 2600",
+  "version": "2.4.0",
+  "minRackVersion": "2.6.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Cloverdale Engineering",
+  "author": "Cloverdale Engineering",
+  "authorUrl": "https://cloverdale.engineering",
+  "pluginUrl": "https://github.com/itscloverdale/ce-2600",
+  "manualUrl": "https://github.com/itscloverdale/ce-2600#readme",
+  "sourceUrl": "https://github.com/itscloverdale/ce-2600",
+  "changelogUrl": "https://github.com/itscloverdale/ce-2600/blob/main/CHANGELOG.md",
+  "modules": [
+    {
+      "slug": "CE2600OrangeTop",
+      "name": "2600 Orange — Top",
+      "description": "Top panel of the black-and-orange 2600: three VCOs, filter, envelopes, VCA, mixer, reverb and outputs. Match Instrument link on all three panels.",
+      "tags": [
+        "Synth voice",
+        "Oscillator",
+        "Filter",
+        "Envelope generator",
+        "VCA",
+        "Mixer",
+        "Reverb"
+      ]
+    },
+    {
+      "slug": "CE2600OrangeMiddle",
+      "name": "2600 Orange — Middle",
+      "description": "Middle panel of the black-and-orange 2600. Match Instrument link on all three Orange panels.",
+      "tags": [
+        "Synth voice"
+      ]
+    },
+    {
+      "slug": "CE2600OrangeBottom",
+      "name": "2600 Orange — Bottom",
+      "description": "Bottom panel of the black-and-orange 2600. Match Instrument link on all three Orange panels.",
+      "tags": [
+        "Synth voice",
+        "LFO",
+        "Sample and hold",
+        "Ring modulator",
+        "Noise"
+      ]
+    }
+  ]
+}
